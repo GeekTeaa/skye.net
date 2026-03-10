@@ -1,0 +1,14 @@
+title: "Skyenet™"
+description: "Optimizing Human Outcomes Since 1997"
+baseurl: ""
+url: "https://skyenet.info"
+
+# Build settings
+markdown: kramdown
+theme: null
+
+# Exclude files from processing
+exclude:
+  - CLAUDE.md
+  - LICENSE
+  - README.md

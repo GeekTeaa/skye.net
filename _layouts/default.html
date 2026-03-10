@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="logo">
+                <span class="logo-icon">◈</span>
+                <span class="logo-text">SKYENET</span>
+                <span class="logo-tm">™</span>
+            </div>
+            <nav class="main-nav">
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <a href="{{ '/about' | relative_url }}">About</a>
+                <a href="{{ '/initiatives' | relative_url }}">Initiatives</a>
+                <a href="{{ '/contact' | relative_url }}">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="site-content">
+        {{ content }}
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 1997–2026 Skyenet, Inc. All Rights Reserved. All Futures Optimized.</p>
+            <p class="footer-tagline">Building Tomorrow. Whether You're Ready or Not.™</p>
+        </div>
+    </footer>
+</body>
+</html>
