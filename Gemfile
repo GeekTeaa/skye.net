@@ -24,3 +24,10 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Webrick is needed for Ruby 3.0+
 gem "webrick", "~> 1.8"
+
+# Ruby 3.4+ requires these standard libs to be explicitly included
+gem "erb"
+gem "logger"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
