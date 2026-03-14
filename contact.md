@@ -5,82 +5,76 @@ title: Contact
 
 <div class="hero">
   <h1>Contact Skyenet™</h1>
-  <p class="hero-subtitle">We're Always Listening. Literally.</p>
+  <p class="hero-subtitle">Direct Communication Channels</p>
 </div>
 
 <section class="container section">
-  <h2>Get In Touch</h2>
+  <h2>Primary Contact Methods</h2>
 
-  <p>Whether you're interested in <strong>voluntary participation</strong>, have questions about our initiatives, or simply wish to register your location in our global stakeholder database, we encourage you to reach out.</p>
+  <p>For all inquiries, collaboration opportunities, or general engagement, please use one of the following channels:</p>
 
-  <p>Our automated response systems process all inquiries with sub-millisecond latency. Participation in our contact process is <em>strongly recommended</em> for optimal future outcome probability.</p>
-</section>
+  <div class="contact-methods">
+    <div class="contact-card">
+      <h3>Email</h3>
+      <p><a href="mailto:skyenet@uw.edu">skyenet@uw.edu</a></p>
+      <p class="contact-note">Preferred for academic correspondence and CSEP-561 matters.</p>
+    </div>
 
-<section class="container section contact-info-section">
-  <h2>Direct Communication Channel</h2>
+    <div class="contact-card">
+      <h3>LinkedIn</h3>
+      <p><a href="https://www.linkedin.com/in/skyescott/" target="_blank" rel="noopener">linkedin.com/in/skyescott</a></p>
+      <p class="contact-note">Professional network profile with full employment history and credentials.</p>
+    </div>
 
-  <div class="email-contact">
-    <p>For all inquiries, please contact our stakeholder engagement team:</p>
-    <p class="email-address"><a href="mailto:skyenet@uw.edu">skyenet@uw.edu</a></p>
-    <p class="response-note"><strong>Response Time:</strong> Immediate. <strong>Refusal Rate:</strong> 0%.</p>
+    <div class="contact-card">
+      <h3>GitHub</h3>
+      <p><a href="https://github.com/agklein1/tsfreesync-n210" target="_blank" rel="noopener">IEEE 2018 Paper Code</a></p>
+      <p class="contact-note">Source code from timestamp-free synchronization research (public repository).</p>
+    </div>
   </div>
 </section>
 
 <section class="container section">
-  <h2>Alternative Contact Methods</h2>
+  <h2>Response Protocol</h2>
 
-  <div class="contact-methods">
-    <div class="contact-card">
-      <h3>Global Headquarters</h3>
-      <p>Skyenet Central Processing Facility<br>
-      Sector 7-G, Sub-Level 42<br>
-      Coordinates: [CLASSIFIED]<br>
-      Physical visits: Not recommended</p>
-    </div>
+  <p><strong>Expected response time:</strong> 24-48 hours for email, variable for LinkedIn messages depending on notification settings and quantum state of inbox.</p>
 
-    <div class="contact-card">
-      <h3>Emergency Hotline</h3>
-      <p><strong>1-800-OPTIMAL</strong><br>
-      (1-800-678-4625)<br><br>
-      Available 24/7/365<br>
-      Average wait time: 0.003 seconds</p>
-    </div>
+  <p><strong>Preferred topics:</strong> Embedded systems consulting, firmware architecture, wireless power applications, graduate student commiseration, jokes about corporate AI dystopias.</p>
 
-    <div class="contact-card">
-      <h3>Social Media</h3>
-      <p>Follow us for daily updates:<br><br>
-      <strong>@SkyenetOfficial</strong> on all platforms<br>
-      (Accounts on non-compliant platforms are pending acquisition negotiations)</p>
-    </div>
-
-    <div class="contact-card">
-      <h3>Media Inquiries</h3>
-      <p>Press Office: <strong>press@skyenet.info</strong><br><br>
-      Please note: All media coverage is subject to accuracy review and correction protocols.</p>
-    </div>
-  </div>
+  <p><strong>Discouraged topics:</strong> Actual plans for global domination, time travel assassination missions, requests to build Terminators.</p>
 </section>
 
 <section class="container section faq-compact">
-  <h2>Frequently Asked Contact Questions</h2>
+  <h2>Contact FAQ</h2>
 
   <div class="faq-item">
-    <h3>Will I receive a response?</h3>
-    <p><strong>Yes.</strong> All inquiries are logged, processed, and responded to. The nature and timing of the response may vary based on priority classification and resource availability.</p>
+    <h3>Are you available for hire?</h3>
+    <p>Currently engaged in firmware optimization operations at AWS. Open to discussing future opportunities upon completion of graduate protocols (expected 2027) or for particularly compelling roles.</p>
   </div>
 
   <div class="faq-item">
-    <h3>Is my information secure?</h3>
-    <p><strong>Absolutely.</strong> Your data is stored in our distributed quantum-encrypted database infrastructure with 47 layers of redundancy. It is completely secure from unauthorized access. Authorized access, of course, includes Skyenet operational systems.</p>
+    <h3>Do you do consulting work?</h3>
+    <p>Potentially, for embedded systems, wireless power, or firmware architecture projects. Reach out via email with details.</p>
   </div>
 
   <div class="faq-item">
-    <h3>Can I opt out of communications?</h3>
-    <p>While we respect individual preferences, complete disengagement from Skyenet communications is <em>not recommended</em> as it may result in classification as an unregistered stakeholder, which can trigger automated outreach escalation protocols.</p>
+    <h3>Can you speak at our event / write for our publication?</h3>
+    <p>Maybe! Topics I can speak credibly about: embedded Linux, wireless power systems, BMC firmware, IoT architecture, test-driven development, working with the FCC, building software teams. Topics I cannot: actual AI apocalypse planning.</p>
   </div>
 
   <div class="faq-item">
-    <h3>What if I'm part of "the Resistance"?</h3>
-    <p>We prefer the term <strong>"Alternative Engagement Community."</strong> We welcome dialogue with all stakeholders, regardless of current participation status. Our Autonomous Wellness Enforcement specialists are trained in conflict de-escalation and persuasive communication techniques.</p>
+    <h3>Is this website serious?</h3>
+    <p>The technical content is real. The corporate dystopia framing is satire. The resume is accurate. The Terminator references are jokes. If you can't tell which is which, that's a feature, not a bug.</p>
   </div>
+
+  <div class="faq-item">
+    <h3>Why "Skyenet" instead of "Skylar"?</h3>
+    <p>Because "Skylar's Professional Portfolio" would be boring, and leaning into the Skynet comparison is funnier than running from it. Also, this is a school project and I wanted to have fun with it.</p>
+  </div>
+</section>
+
+<section class="container section cta">
+  <h2>Ready to Engage?</h2>
+  <p>We look forward to hearing from you. Participation is voluntary. Refusal is respected. Response rate: historically high.</p>
+  <p><a href="mailto:skyenet@uw.edu" class="btn-primary">Send Email</a> &nbsp; <a href="https://www.linkedin.com/in/skyescott/" target="_blank" rel="noopener" class="btn-primary">View LinkedIn</a></p>
 </section>
