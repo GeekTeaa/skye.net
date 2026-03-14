@@ -27,9 +27,9 @@ title: Contact
     </div>
 
     <div class="contact-card">
-      <h3>GitHub</h3>
-      <p><a href="https://github.com/agklein1/tsfreesync-n210" target="_blank" rel="noopener">IEEE 2018 Paper Code</a></p>
-      <p class="contact-note">Source code from timestamp-free synchronization research (public repository).</p>
+      <h3>Research Publication</h3>
+      <p><a href="https://aspectlab.github.io/papers/aeroconf2018.pdf" target="_blank" rel="noopener">IEEE Aerospace 2018 Paper</a></p>
+      <p class="contact-note">Timestamp-free network synchronization protocol (PDF).</p>
     </div>
   </div>
 </section>
